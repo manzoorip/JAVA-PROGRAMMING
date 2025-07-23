@@ -27,3 +27,4 @@ System.out.println("duplicateObject:"+ breakSingletonObject.hashCode());
 
 	}
 }
+//Remark or Description
